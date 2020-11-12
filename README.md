@@ -1,6 +1,7 @@
 ## Hiyerarşik Düzen
 
 * /bin
+  - readme.txt
   - Test.exe
 * /doc
   - readme.txt
@@ -14,6 +15,7 @@
     - Node.hpp
   - Kisi.hpp
 * /lib
+  - readme.txt
   - AVL.o
   - AVLNode.o
   - Kisi.o
