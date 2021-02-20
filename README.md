@@ -1,3 +1,5 @@
+[EN description](#en)
+
 ## File Tree/Dosya Ağacı
 
 * /bin
@@ -61,9 +63,9 @@ After installing the gcc compiler without any problems, go to the same directory
 
 &emsp;&emsp;For each row it reads, a node is created in the AVL tree, an object created in the heap zone from the "Kisi" class inside the node, and a Stack that points to the heap zone. "Kisi" object holds the person data. Stack object keeps the movements of the node relative to the depth.
 
-> 'Y' is added to the stack if it approaches the root node 
-> 'A' is added to the stack if it moves away from the root node
-> 'D' is added if it remains the same distance from the root node  
+> 'Y' is added to the stack if it approaches the root node  
+> 'A' is added to the stack if it moves away from the root node  
+> 'D' is added if it remains the same distance from the root node    
 
 There is a balancing for each node that occurs. When balancing the AVL tree in this repository, if equal values are encountered the values are added to the left of the node. However, since it is a balancing act, both children of the nodes should be checked when searching data.
 
