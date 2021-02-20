@@ -1,5 +1,5 @@
-[EN description](#en)
-[TR açıklama](#tr)
+- [EN description](#en)  
+- [TR açıklama](#tr)
 
 ## File Tree/Dosya Ağacı
 
