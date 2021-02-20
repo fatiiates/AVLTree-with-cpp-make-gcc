@@ -1,7 +1,7 @@
 ## Hiyerarşik Düzen
 
 * /bin
-  - readme.txt
+  - readme.txt(Hiyerarşi için oluşturuldu.)
   - Test.exe
 * /doc
   - readme.txt
