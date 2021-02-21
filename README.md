@@ -55,7 +55,7 @@ run this command is enough.
 
 After installing the gcc compiler without any problems, go to the same directory as your repository and run;
 
-> mingw32-make  
+    mingw32-make  
 
 ## How to work ?
 &emsp;&emsp; The program reads the data in the Kisiler.txt file line by line. A data in the Kisiler.txt file must be in the following format;
